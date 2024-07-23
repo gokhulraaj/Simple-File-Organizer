@@ -2,4 +2,4 @@
 
 SCRIPT_PATH="./file_organizer.py"
 
-python3 "$SCRIPT_PATH" "$1"
+python3 "$SCRIPT_PATH" "$PWD"
